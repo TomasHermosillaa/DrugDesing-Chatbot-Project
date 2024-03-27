@@ -26,6 +26,6 @@ PINECONE_API_KEY = "bd8cfcb4-cbf6-4217-975f-b3c44e079668"
 PIPECONDE_API_ENV = 'gcp-starter'
 TOKENIZERS_PARALLELISM = False
 ```
-
+Now...
 
 
