@@ -1,4 +1,4 @@
-# Medical Chat Bot with Llama 2
+# Drug Desing Chat Bot with Llama 2 and LangChain
 
 ## Steps to Run
 ### 1. Create an Env.
